@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beers-shop/static/css/main.5f27e833.css",
+    "main.js": "/beers-shop/static/js/main.02d3b142.js",
+    "static/js/787.b3fc7c1a.chunk.js": "/beers-shop/static/js/787.b3fc7c1a.chunk.js",
+    "index.html": "/beers-shop/index.html",
+    "main.5f27e833.css.map": "/beers-shop/static/css/main.5f27e833.css.map",
+    "main.02d3b142.js.map": "/beers-shop/static/js/main.02d3b142.js.map",
+    "787.b3fc7c1a.chunk.js.map": "/beers-shop/static/js/787.b3fc7c1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f27e833.css",
+    "static/js/main.02d3b142.js"
+  ]
+}
