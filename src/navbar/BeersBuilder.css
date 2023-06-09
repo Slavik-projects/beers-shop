@@ -1,0 +1,8 @@
+.items{
+
+}
+.items__cnt{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
